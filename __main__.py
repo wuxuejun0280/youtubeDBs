@@ -6,7 +6,7 @@ from threading import Timer
 
 s = sched.scheduler(time.time, time.sleep)
 x=datetime.today()
-y=x.replace(day=x.day, hour=17, minute=40, second=0, microsecond=0)
+y=x.replace(day=x.day, hour=16, minute=20, second=0, microsecond=0)
 delta_t=y-x
 secs = delta_t.seconds+1
 
