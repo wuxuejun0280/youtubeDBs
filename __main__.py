@@ -6,7 +6,7 @@ from threading import Timer
 
 s = sched.scheduler(time.time, time.sleep)
 x=datetime.today()
-y=x.replace(day=x.day, hour=16, minute=20, second=0, microsecond=0)
+y=x.replace(day=x.day, hour=16, minute=23, second=0, microsecond=0)
 delta_t=y-x
 secs = delta_t.seconds+1
 
@@ -15,7 +15,7 @@ def collect(count = 0):
     if count < 12:
         s.enter(300, 1, collect, argument=(count+1,))
 
-    child = pexpect.spawn('python2.7 /home/wuxuejun0820/pytomo/start_crawl.py https://youtu.be/d26JgwAG8wc')
+    child = pexpect.spawn('python2.7 /home/wuxuejun0820/pytomo/start_crawl.py https://youtu.be/2yeWZfOs1fA')
     child.logfile = sys.stdout
 
     child.expect('Are you ok to start crawling?', timeout=9999)
