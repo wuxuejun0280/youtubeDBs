@@ -15,7 +15,7 @@ def collect(count = 0):
     if count < 12:
         s.enter(300, 1, collect, argument=(count+1,))
 
-    child = pexpect.spawn('python2.7 /home/wuxuejun0820/pytomo/start_crawl.py https://youtu.be/IpzqC5YWh2E')
+    child = pexpect.spawn('python2.7 /home/wuxuejun0820/pytomo/start_crawl.py https://youtu.be/d26JgwAG8wc')
     child.logfile = sys.stdout
 
     child.expect('Are you ok to start crawling?', timeout=9999)
