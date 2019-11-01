@@ -1,0 +1,233 @@
+2019-10-29 17:08:01,329 - start_pytomo.py:1252 - CRITICAL - Log level set to DEBUG
+2019-10-29 17:08:01,329 - start_pytomo.py:1259 - CRITICAL - snmp_pytomoIpCount: .1.3.6.1.3.53.5.9.3.1.1.2
+2019-10-29 17:08:01,329 - start_pytomo.py:1259 - CRITICAL - snmp_pytomoBufferingDuration: .1.3.6.1.3.53.5.9.2.1.1.23
+2019-10-29 17:08:01,329 - start_pytomo.py:1259 - CRITICAL - snmp_pytomoCacheUrl: .1.3.6.1.3.53.5.9.2.1.1.4
+2019-10-29 17:08:01,329 - start_pytomo.py:1259 - CRITICAL - snmp_pytomoPingMax: .1.3.6.1.3.53.5.9.2.1.1.12
+2019-10-29 17:08:01,329 - start_pytomo.py:1259 - CRITICAL - HTTP_REDIRECT_SWITCH_PROXY: 306
+2019-10-29 17:08:01,329 - start_pytomo.py:1259 - CRITICAL - DELAY_BETWEEN_REQUESTS: 10
+2019-10-29 17:08:01,329 - start_pytomo.py:1259 - CRITICAL - MAX_NB_TRIES_ENCODING: 9
+2019-10-29 17:08:01,329 - start_pytomo.py:1259 - CRITICAL - RRD_DIR: rrds
+2019-10-29 17:08:01,329 - start_pytomo.py:1259 - CRITICAL - INPUT_FILE: None
+2019-10-29 17:08:01,329 - start_pytomo.py:1259 - CRITICAL - DOWNLOAD_TIME: 30.0
+2019-10-29 17:08:01,329 - start_pytomo.py:1259 - CRITICAL - HTTP_REDIRECT_MOVED_PERMANENTLY: 301
+2019-10-29 17:08:01,330 - start_pytomo.py:1259 - CRITICAL - snmp_pytomoResolver: .1.3.6.1.3.53.5.9.2.1.1.7
+2019-10-29 17:08:01,330 - start_pytomo.py:1259 - CRITICAL - snmp_pytomoCacheServerDelay: .1.3.6.1.3.53.5.9.2.1.1.5
+2019-10-29 17:08:01,330 - start_pytomo.py:1259 - CRITICAL - CRITICAL: 50
+2019-10-29 17:08:01,330 - start_pytomo.py:1259 - CRITICAL - snmp_pytomoVideoDuration: .1.3.6.1.3.53.5.9.2.1.1.15
+2019-10-29 17:08:01,330 - start_pytomo.py:1259 - CRITICAL - SEP_LINE: ################################################################################
+2019-10-29 17:08:01,330 - start_pytomo.py:1259 - CRITICAL - BATCH_MODE: False
+2019-10-29 17:08:01,330 - start_pytomo.py:1259 - CRITICAL - snmp_pytomoContact: .1.3.6.1.3.53.5.9.1.3
+2019-10-29 17:08:01,330 - start_pytomo.py:1259 - CRITICAL - NAME_TO_LEVEL: {'DEBUG': 10, 'INFO': 20, 'WARNING': 30, 'CRITICAL': 50, 'ERROR': 40}
+2019-10-29 17:08:01,330 - start_pytomo.py:1259 - CRITICAL - snmp_pytomoSleepTime: .1.3.6.1.3.53.5.9.1.5
+2019-10-29 17:08:01,330 - start_pytomo.py:1259 - CRITICAL - DOWNLOADED_BY_IP: {}
+2019-10-29 17:08:01,330 - start_pytomo.py:1259 - CRITICAL - INITIAL_PLAYBACK_DURATION: 2000
+2019-10-29 17:08:01,330 - start_pytomo.py:1259 - CRITICAL - snmp_pytomoDownloadInterruptions: .1.3.6.1.3.53.5.9.2.1.1.19
+2019-10-29 17:08:01,330 - start_pytomo.py:1259 - CRITICAL - CENTRALISATION_SERVER: pytomo.dtdns.net
+2019-10-29 17:08:01,330 - start_pytomo.py:1259 - CRITICAL - NB_DOWNLOAD_VALUES: 15
+2019-10-29 17:08:01,330 - start_pytomo.py:1259 - CRITICAL - snmp_pytomoAddressIp: .1.3.6.1.3.53.5.9.2.1.1.6
+2019-10-29 17:08:01,330 - start_pytomo.py:1259 - CRITICAL - HTTP_REDIRECT_TEMPORARY_REDIRECT: 307
+2019-10-29 17:08:01,330 - start_pytomo.py:1259 - CRITICAL - IPADDR_TIMEOUT: 5
+2019-10-29 17:08:01,330 - start_pytomo.py:1259 - CRITICAL - LOG_PUBLIC_IP: True
+2019-10-29 17:08:01,330 - start_pytomo.py:1259 - CRITICAL - MAX_ROUND_DURATION: 600
+2019-10-29 17:08:01,330 - start_pytomo.py:1259 - CRITICAL - HTTP_REDIRECT_CODE_LIST: (300, 301, 302, 303, 304, 305, 306, 307, 308)
+2019-10-29 17:08:01,330 - start_pytomo.py:1259 - CRITICAL - MAX_ROUNDS: 10000
+2019-10-29 17:08:01,330 - start_pytomo.py:1259 - CRITICAL - snmp_pytomoVideoLength: .1.3.6.1.3.53.5.9.2.1.1.16
+2019-10-29 17:08:01,330 - start_pytomo.py:1259 - CRITICAL - RRD_FILE: pytomo.rrd
+2019-10-29 17:08:01,330 - start_pytomo.py:1259 - CRITICAL - OPEN_DNS: ('open_dns', '208.67.220.220')
+2019-10-29 17:08:01,330 - start_pytomo.py:1259 - CRITICAL - LOOP: False
+2019-10-29 17:08:01,330 - start_pytomo.py:1259 - CRITICAL - DATABASE_DIR: databases
+2019-10-29 17:08:01,330 - start_pytomo.py:1259 - CRITICAL - AS_IDX: 8
+2019-10-29 17:08:01,331 - start_pytomo.py:1259 - CRITICAL - snmp_pytomoDescr: .1.3.6.1.3.53.5.9.1.2
+2019-10-29 17:08:01,331 - start_pytomo.py:1259 - CRITICAL - HTTP_REDIRECT_MULTIPLE_CHOICES: 300
+2019-10-29 17:08:01,331 - start_pytomo.py:1259 - CRITICAL - BlackListException: <class 'pytomo.config_pytomo.BlackListException'>
+2019-10-29 17:08:01,331 - start_pytomo.py:1259 - CRITICAL - snmp_pytomoPlaybackDuration: .1.3.6.1.3.53.5.9.2.1.1.24
+2019-10-29 17:08:01,331 - start_pytomo.py:1259 - CRITICAL - RESULT_FILE: None
+2019-10-29 17:08:01,331 - start_pytomo.py:1259 - CRITICAL - snmp_pytomoObjectName: .1.3.6.1.3.53.5.9.1.1
+2019-10-29 17:08:01,331 - start_pytomo.py:1259 - CRITICAL - TABLE_TIMESTAMP: None
+2019-10-29 17:08:01,331 - start_pytomo.py:1259 - CRITICAL - snmp_pytomoDescr_str: Pytomo  is a YouTube crawler designed to figure out network information out of YouTube video download
+2019-10-29 17:08:01,331 - start_pytomo.py:1259 - CRITICAL - STATS_IDX: (2, 0, 1, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28)
+2019-10-29 17:08:01,331 - start_pytomo.py:1259 - CRITICAL - snmp_pytomoVideoType: .1.3.6.1.3.53.5.9.2.1.1.14
+2019-10-29 17:08:01,331 - start_pytomo.py:1259 - CRITICAL - RTT: None
+2019-10-29 17:08:01,331 - start_pytomo.py:1259 - CRITICAL - MAX_CRAWLED_URLS: 10000
+2019-10-29 17:08:01,331 - start_pytomo.py:1259 - CRITICAL - WARNING: 30
+2019-10-29 17:08:01,331 - start_pytomo.py:1259 - CRITICAL - LOG_DIR: logs
+2019-10-29 17:08:01,331 - start_pytomo.py:1259 - CRITICAL - snmp_pytomoEncodingRate: .1.3.6.1.3.53.5.9.2.1.1.17
+2019-10-29 17:08:01,331 - start_pytomo.py:1259 - CRITICAL - snmp_pytomoRedirectUrl: .1.3.6.1.3.53.5.9.2.1.1.28
+2019-10-29 17:08:01,331 - start_pytomo.py:1259 - CRITICAL - EXTRA_COUNTRY: None
+2019-10-29 17:08:01,331 - start_pytomo.py:1259 - CRITICAL - IMAGE_DIR: plots
+2019-10-29 17:08:01,331 - start_pytomo.py:1259 - CRITICAL - MIN_PLAYOUT_RESTART: 1.0
+2019-10-29 17:08:01,331 - start_pytomo.py:1259 - CRITICAL - EXTRA_NAME_SERVERS_CC: []
+2019-10-29 17:08:01,331 - start_pytomo.py:1259 - CRITICAL - AS_URL_TIMEOUT: 15
+2019-10-29 17:08:01,331 - start_pytomo.py:1259 - CRITICAL - LEVEL_TO_NAME: {40: 'ERROR', 10: 'DEBUG', 20: 'INFO', 50: 'CRITICAL', 30: 'WARNING'}
+2019-10-29 17:08:01,331 - start_pytomo.py:1259 - CRITICAL - NB_RELATED_VALUES: 2
+2019-10-29 17:08:01,331 - start_pytomo.py:1259 - CRITICAL - snmp_pytomoResolveTime: .1.3.6.1.3.53.5.9.2.1.1.8
+2019-10-29 17:08:01,331 - start_pytomo.py:1259 - CRITICAL - ERROR: 40
+2019-10-29 17:08:01,331 - start_pytomo.py:1259 - CRITICAL - DEBUG: 10
+2019-10-29 17:08:01,331 - start_pytomo.py:1259 - CRITICAL - snmp_pytomoBufferDurationAtEnd: .1.3.6.1.3.53.5.9.2.1.1.25
+2019-10-29 17:08:01,331 - start_pytomo.py:1259 - CRITICAL - GOOGLE_PUBLIC_DNS: ('google_public_dns', '8.8.8.8')
+2019-10-29 17:08:01,331 - start_pytomo.py:1259 - CRITICAL - DATABASE_TIMESTAMP: None
+2019-10-29 17:08:01,331 - start_pytomo.py:1259 - CRITICAL - ROOT_OID: .1.3.6.1.3.53.5.9
+2019-10-29 17:08:01,332 - start_pytomo.py:1259 - CRITICAL - TS_IDX: 0
+2019-10-29 17:08:01,332 - start_pytomo.py:1259 - CRITICAL - PROVIDER: 
+2019-10-29 17:08:01,332 - start_pytomo.py:1259 - CRITICAL - PROXIES: None
+2019-10-29 17:08:01,332 - start_pytomo.py:1259 - CRITICAL - BLACK_LISTED: das_captcha
+2019-10-29 17:08:01,332 - start_pytomo.py:1259 - CRITICAL - snmp_pytomoDownloadTime: .1.3.6.1.3.53.5.9.2.1.1.13
+2019-10-29 17:08:01,332 - start_pytomo.py:1259 - CRITICAL - snmp_pytomoUrlStats: .1.3.6.1.3.53.5.9.2.1.1
+2019-10-29 17:08:01,332 - start_pytomo.py:1259 - CRITICAL - DEMO: False
+2019-10-29 17:08:01,332 - start_pytomo.py:1259 - CRITICAL - CRAWLED_URLS_MODULO: 5
+2019-10-29 17:08:01,332 - start_pytomo.py:1259 - CRITICAL - snmp_pytomoInitialData: .1.3.6.1.3.53.5.9.2.1.1.20
+2019-10-29 17:08:01,332 - start_pytomo.py:1259 - CRITICAL - snmp_pytomoASCount: .1.3.6.1.3.53.5.9.4.1.1.2
+2019-10-29 17:08:01,332 - start_pytomo.py:1259 - CRITICAL - snmp_pytomoGblStats: .1.3.6.1.3.53.5.9.1
+2019-10-29 17:08:01,332 - start_pytomo.py:1259 - CRITICAL - snmp_pytomoIpName: .1.3.6.1.3.53.5.9.3.1.1.1
+2019-10-29 17:08:01,332 - start_pytomo.py:1259 - CRITICAL - URL_TIMEOUT: 5
+2019-10-29 17:08:01,332 - start_pytomo.py:1259 - CRITICAL - STATIC_URL_LIST: []
+2019-10-29 17:08:01,332 - start_pytomo.py:1259 - CRITICAL - NB_FIELDS: 28
+2019-10-29 17:08:01,332 - start_pytomo.py:1259 - CRITICAL - RELATED: False
+2019-10-29 17:08:01,332 - start_pytomo.py:1259 - CRITICAL - NB_PING_VALUES: 3
+2019-10-29 17:08:01,332 - start_pytomo.py:1259 - CRITICAL - CRAWL_SERVICE: youtube
+2019-10-29 17:08:01,332 - start_pytomo.py:1259 - CRITICAL - TABLE: pytomo_crawl
+2019-10-29 17:08:01,332 - start_pytomo.py:1259 - CRITICAL - DNS_TIMEOUT: 4.0
+2019-10-29 17:08:01,332 - start_pytomo.py:1259 - CRITICAL - DOC_DIR: templates/doc/
+2019-10-29 17:08:01,332 - start_pytomo.py:1259 - CRITICAL - COLUMN_NAMES: ['DownloadBytes', 'MaxInstantThp']
+2019-10-29 17:08:01,332 - start_pytomo.py:1259 - CRITICAL - snmp_pytomoASStats: .1.3.6.1.3.53.5.9.4.1.1
+2019-10-29 17:08:01,332 - start_pytomo.py:1259 - CRITICAL - MAX_PER_PAGE: 10
+2019-10-29 17:08:01,332 - start_pytomo.py:1259 - CRITICAL - IP_IDX: 5
+2019-10-29 17:08:01,332 - start_pytomo.py:1259 - CRITICAL - USER_INPUT_TIMEOUT: 10
+2019-10-29 17:08:01,332 - start_pytomo.py:1259 - CRITICAL - TIME_FRAME: today
+2019-10-29 17:08:01,332 - start_pytomo.py:1259 - CRITICAL - STD_HEADERS: {'Accept-Charset': 'ISO-8859-1,utf-8;q=0.7,*;q=0.7', 'Cookie': 'YSC=h9wy7hcXxIo; VISITOR_INFO1_LIVE=d5TlLfzb2K0; PREF=f1=50000000; s_gl=1d69aac621b2f9c0a25dade722d6e24bcwIAAABVUw==', 'Accept-Language': 'en-us,en;q=0.5', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8', 'User-Agent': 'Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:10.0)     Gecko/20100101 Firefox/10.0'}
+2019-10-29 17:08:01,332 - start_pytomo.py:1259 - CRITICAL - snmp_pytomoASName: .1.3.6.1.3.53.5.9.4.1.1.1
+2019-10-29 17:08:01,332 - start_pytomo.py:1259 - CRITICAL - snmp_pytomoAsNumber: .1.3.6.1.3.53.5.9.2.1.1.9
+2019-10-29 17:08:01,332 - start_pytomo.py:1259 - CRITICAL - IMAGE_FILE: pytomo_image.png
+2019-10-29 17:08:01,332 - start_pytomo.py:1259 - CRITICAL - FREQ_FULL_DOWNLOAD: None
+2019-10-29 17:08:01,333 - start_pytomo.py:1259 - CRITICAL - WEB_DEFAULT_PORT: 5555
+2019-10-29 17:08:01,333 - start_pytomo.py:1259 - CRITICAL - INFO: 20
+2019-10-29 17:08:01,333 - start_pytomo.py:1259 - CRITICAL - PLOT: False
+2019-10-29 17:08:01,333 - start_pytomo.py:1259 - CRITICAL - HTTP_REDIRECT_PERMANENT_REDIRECT: 308
+2019-10-29 17:08:01,333 - start_pytomo.py:1259 - CRITICAL - DOWNLOAD_FROM_EXTRA_IPS: False
+2019-10-29 17:08:01,333 - start_pytomo.py:1259 - CRITICAL - DATABASE: pytomo_database.db
+2019-10-29 17:08:01,333 - start_pytomo.py:1259 - CRITICAL - EXTRA_NAME_SERVERS: [('google_public_dns', '8.8.8.8'), ('open_dns', '208.67.220.220')]
+2019-10-29 17:08:01,333 - start_pytomo.py:1259 - CRITICAL - SNMP: False
+2019-10-29 17:08:01,333 - start_pytomo.py:1259 - CRITICAL - snmp_pytomoIpStats: .1.3.6.1.3.53.5.9.3.1.1
+2019-10-29 17:08:01,333 - start_pytomo.py:1259 - CRITICAL - INITIAL_BUFFER: 2.0
+2019-10-29 17:08:01,333 - start_pytomo.py:1259 - CRITICAL - CENTRALISE_DATA: False
+2019-10-29 17:08:01,333 - start_pytomo.py:1259 - CRITICAL - HTTP_REDIRECT_USE_PROXY: 305
+2019-10-29 17:08:01,333 - start_pytomo.py:1259 - CRITICAL - HTTP_REDIRECT_FOUND: 302
+2019-10-29 17:08:01,333 - start_pytomo.py:1259 - CRITICAL - PING_PACKETS: 10
+2019-10-29 17:08:01,333 - start_pytomo.py:1259 - CRITICAL - HD_FIRST: False
+2019-10-29 17:08:01,333 - start_pytomo.py:1259 - CRITICAL - SKIP_COMPUTED: False
+2019-10-29 17:08:01,333 - start_pytomo.py:1259 - CRITICAL - RESULT_DIR: results
+2019-10-29 17:08:01,333 - start_pytomo.py:1259 - CRITICAL - LOG: <logging.Logger object at 0x7f21176fd8d0>
+2019-10-29 17:08:01,333 - start_pytomo.py:1259 - CRITICAL - MAX_DOWNLOAD_TIME: 600.0
+2019-10-29 17:08:01,333 - start_pytomo.py:1259 - CRITICAL - PDF_DIR: pdfs
+2019-10-29 17:08:01,333 - start_pytomo.py:1259 - CRITICAL - snmp_pytomoStatusCode: .1.3.6.1.3.53.5.9.2.1.1.29
+2019-10-29 17:08:01,333 - start_pytomo.py:1259 - CRITICAL - RRD_PLOT_DIR: images
+2019-10-29 17:08:01,333 - start_pytomo.py:1259 - CRITICAL - snmp_pytomoUrlIndex: .1.3.6.1.3.53.5.9.2.1.1.1
+2019-10-29 17:08:01,333 - start_pytomo.py:1259 - CRITICAL - LOG_LEVEL: 10
+2019-10-29 17:08:01,333 - start_pytomo.py:1259 - CRITICAL - PDF_FILE: report.pdf
+2019-10-29 17:08:01,333 - start_pytomo.py:1259 - CRITICAL - DOWNLOADED_BY_AS: {}
+2019-10-29 17:08:01,333 - start_pytomo.py:1259 - CRITICAL - snmp_pytomoTimeTogetFirstByte: .1.3.6.1.3.53.5.9.2.1.1.26
+2019-10-29 17:08:01,333 - start_pytomo.py:1259 - CRITICAL - snmp_pytomoDownloadDuration: .1.3.6.1.3.53.5.9.1.4
+2019-10-29 17:08:01,333 - start_pytomo.py:1259 - CRITICAL - snmp_pytomoPingMin: .1.3.6.1.3.53.5.9.2.1.1.10
+2019-10-29 17:08:01,334 - start_pytomo.py:1259 - CRITICAL - snmp_pytomoInitialPlaybackBuffer: .1.3.6.1.3.53.5.9.2.1.1.22
+2019-10-29 17:08:01,334 - start_pytomo.py:1259 - CRITICAL - MIN_PLAYOUT_BUFFER: 0.1
+2019-10-29 17:08:01,334 - start_pytomo.py:1259 - CRITICAL - TEMPLATE_FILE: index.html
+2019-10-29 17:08:01,334 - start_pytomo.py:1259 - CRITICAL - snmp_pytomoInitialRate: .1.3.6.1.3.53.5.9.2.1.1.21
+2019-10-29 17:08:01,334 - start_pytomo.py:1259 - CRITICAL - URL_IDX: 2
+2019-10-29 17:08:01,334 - start_pytomo.py:1259 - CRITICAL - MAX_PER_URL: 10
+2019-10-29 17:08:01,334 - start_pytomo.py:1259 - CRITICAL - TEMPLATES_DIR: templates
+2019-10-29 17:08:01,334 - start_pytomo.py:1259 - CRITICAL - USE_PACKAGE_DIR: False
+2019-10-29 17:08:01,334 - start_pytomo.py:1259 - CRITICAL - MAX_NB_REDIRECT: 10
+2019-10-29 17:08:01,334 - start_pytomo.py:1259 - CRITICAL - LOG_FILE: pytomo.log
+2019-10-29 17:08:01,334 - start_pytomo.py:1259 - CRITICAL - snmp_pytomoContact_str: Jean-Luc Sire / Pascal Beringuie 
+2019-10-29 17:08:01,334 - start_pytomo.py:1259 - CRITICAL - snmp_pytomoService: .1.3.6.1.3.53.5.9.2.1.1.3
+2019-10-29 17:08:01,334 - start_pytomo.py:1259 - CRITICAL - NB_IDENT_VALUES: 8
+2019-10-29 17:08:01,334 - start_pytomo.py:1259 - CRITICAL - LOG_FILE_TIMESTAMP: /home/wuxuejun0820/youtubeDB/logs/instance-1.youtube.2019-10-29.17_08_01.pytomo.log
+2019-10-29 17:08:01,334 - start_pytomo.py:1259 - CRITICAL - SYSTEM: None
+2019-10-29 17:08:01,334 - start_pytomo.py:1259 - CRITICAL - snmp_pytomoTimeStamp: .1.3.6.1.3.53.5.9.2.1.1.2
+2019-10-29 17:08:01,334 - start_pytomo.py:1259 - CRITICAL - snmp_pytomoObjectName_str: Pytomo instance
+2019-10-29 17:08:01,334 - start_pytomo.py:1259 - CRITICAL - HTTP_REDIRECT_SEE_OTHER: 303
+2019-10-29 17:08:01,334 - start_pytomo.py:1259 - CRITICAL - snmp_pytomoPingAvg: .1.3.6.1.3.53.5.9.2.1.1.11
+2019-10-29 17:08:01,334 - start_pytomo.py:1259 - CRITICAL - HTTP_OK: 200
+2019-10-29 17:08:01,334 - start_pytomo.py:1259 - CRITICAL - snmp_pytomoMaxInstantThp: .1.3.6.1.3.53.5.9.2.1.1.27
+2019-10-29 17:08:01,334 - start_pytomo.py:1259 - CRITICAL - snmp_pytomoDownloadBytes: .1.3.6.1.3.53.5.9.2.1.1.18
+2019-10-29 17:08:01,334 - start_pytomo.py:1259 - CRITICAL - HTTP_REDIRECT_NOT_MODIFIED: 304
+2019-10-29 17:08:01,335 - start_pytomo.py:1440 - CRITICAL - Offset between local time and UTC: 0
+2019-10-29 17:08:01,335 - start_pytomo.py:1441 - WARNING - Pytomo version = 3.0.5
+2019-10-29 17:08:01,337 - start_pytomo.py:1444 - WARNING - Pytomo is running on this system: Linux
+2019-10-29 17:08:41,637 - start_pytomo.py:1205 - CRITICAL - Machine has this public IP address: 35.192.39.45
+2019-10-29 17:08:41,638 - start_pytomo.py:1497 - DEBUG - Service for most popular links youtube
+2019-10-29 17:08:41,638 - start_pytomo.py:920 - CRITICAL - Start crawl
+2019-10-29 17:08:41,638 - lib_database.py:213 - INFO - Created connection to data base Database: instance-1.youtube.2019-10-29.17_08_01.pytomo_database.db
+2019-10-29 17:08:41,646 - lib_database.py:264 - INFO - Creating table : pytomo_crawl_2019_10_29_17_08_01
+2019-10-29 17:08:41,646 - start_pytomo.py:935 - DEBUG - STATIC_URL_LIST: ['https://youtu.be/2yeWZfOs1fA']
+2019-10-29 17:08:41,647 - start_pytomo.py:877 - WARNING - Round 0 started
+################################################################################
+2019-10-29 17:08:41,647 - start_pytomo.py:888 - INFO - Name servers at round [('_google_public_dns', '8.8.8.8'), ('_open_dns', '208.67.220.220')]:
+2019-10-29 17:08:41,647 - start_pytomo.py:860 - DEBUG - input_links: set(['https://youtu.be/2yeWZfOs1fA'])
+2019-10-29 17:08:41,647 - start_pytomo.py:757 - DEBUG - Crawl of url# 0: https://youtu.be/2yeWZfOs1fA
+2019-10-29 17:08:41,647 - lib_youtube_download.py:288 - DEBUG - instanciate a Youtube FileDownloader with download_time: 30.0
+2019-10-29 17:08:41,647 - lib_general_download.py:189 - DEBUG - Max download_time is: 30
+2019-10-29 17:08:41,648 - lib_youtube_download.py:293 - DEBUG - Download webpage 2yeWZfOs1fA
+2019-10-29 17:08:41,850 - lib_youtube_download.py:158 - DEBUG - 27 keys of video_info are : ['account_playback_token', 'enablecsi', 'fflags', 'cbr', 'fexp', 'vss_host', 'csi_page_type', 'cr', 'cver', 'csn', 'fmt_list', 'innertube_api_version', 'host_language', 'gapi_hint_params', 'status', 'url_encoded_fmt_stream_map', 'innertube_api_key', 'watermark', 'timestamp', 'c', 'root_ve_type', 'innertube_context_client_version', 'hl', 'adaptive_fmts', 'cos', 'cbrver', 'player_response']
+2019-10-29 17:08:41,850 - lib_youtube_download.py:159 - DEBUG - video_info['account_playback_token'] : ['QUFFLUhqbHlubnRNRmRaVHZLNFpoWGJpQlJyS1A3YmZOZ3xBQ3Jtc0trWk54MnQ5NmdHOWhpZjZSRTRianBWZ0pYbmtmYmlGUkpvV0lEbFFMTWZfcTZZYmo2UGdwaWVWVzBXNFBtZEFqeGZoSnVpZEFpbzc3aW93LTNhdC1Uejc1Vmo5a1h6eHNIU0stRGtPa2ZSc3l5Z1ZxYw==']
+2019-10-29 17:08:41,850 - lib_youtube_download.py:339 - DEBUG - Cache url found: https://r6---sn-vgqsrn76.googlevideo.com/videoplayback?expire=1572390521&ei=GXK4XY3iKKOKir4P5v-w2Ak&ip=35.192.39.45&id=o-AFkl0qV-jrvkDTrkn8D7sHOR31ol2YBdE8qg7sI-csuc&itag=18&source=youtube&requiressl=yes&mm=31%2C26&mn=sn-vgqsrn76%2Csn-q4f7sn7k&ms=au%2Conr&mv=m&mvi=5&pl=20&pcm2=yes&initcwndbps=7038750&mime=video%2Fmp4&gir=yes&clen=2097634&ratebypass=yes&dur=50.317&lmt=1572365922549419&mt=1572368792&fvip=6&fexp=23842630&c=WEB&txp=2211222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cpcm2%2Cmime%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=ALgxI2wwRQIhAJMu31ABGCzIFtiy1oF0wDakIYWmbRq7bKUMiCgaw5Y9AiBJLm3hmBcC8xGDIn9RPjT7gx4eSFkY97UjUG2EgMKpgA%3D%3D&lsparams=mm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AHylml4wRgIhAOsecme92aX6TAr9NBUhyEDlfy3uDszvMoIzFGHTpkqTAiEAnCq7IVvQSdV3xiaolRoF_6FUlZtNhzrxPxTtpw78vIM%3D
+2019-10-29 17:08:41,907 - start_pytomo.py:720 - DEBUG - response_code: 200
+2019-10-29 17:08:41,908 - start_pytomo.py:787 - DEBUG - For url=https://youtu.be/2yeWZfOs1fA the cache urls are ['https://r6---sn-vgqsrn76.googlevideo.com/videoplayback?expire=1572390521&ei=GXK4XY3iKKOKir4P5v-w2Ak&ip=35.192.39.45&id=o-AFkl0qV-jrvkDTrkn8D7sHOR31ol2YBdE8qg7sI-csuc&itag=18&source=youtube&requiressl=yes&mm=31%2C26&mn=sn-vgqsrn76%2Csn-q4f7sn7k&ms=au%2Conr&mv=m&mvi=5&pl=20&pcm2=yes&initcwndbps=7038750&mime=video%2Fmp4&gir=yes&clen=2097634&ratebypass=yes&dur=50.317&lmt=1572365922549419&mt=1572368792&fvip=6&fexp=23842630&c=WEB&txp=2211222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cpcm2%2Cmime%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=ALgxI2wwRQIhAJMu31ABGCzIFtiy1oF0wDakIYWmbRq7bKUMiCgaw5Y9AiBJLm3hmBcC8xGDIn9RPjT7gx4eSFkY97UjUG2EgMKpgA%3D%3D&lsparams=mm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AHylml4wRgIhAOsecme92aX6TAr9NBUhyEDlfy3uDszvMoIzFGHTpkqTAiEAnCq7IVvQSdV3xiaolRoF_6FUlZtNhzrxPxTtpw78vIM%3D']
+2019-10-29 17:08:41,908 - translation_cache_url.py:90 - DEBUG - translating url: https://r6---sn-vgqsrn76.googlevideo.com
+2019-10-29 17:08:41,908 - translation_cache_url.py:92 - DEBUG - no match
+2019-10-29 17:08:41,908 - translation_cache_url.py:100 - DEBUG - url translated as: https://r6---sn-vgqsrn76.googlevideo.com
+2019-10-29 17:08:41,908 - lib_dns.py:77 - DEBUG - DNS resolution using _default on this address 169.254.169.254
+2019-10-29 17:08:41,913 - lib_dns.py:110 - DEBUG - URL r6---sn-vgqsrn76.googlevideo.com resolved as: 74.125.159.236
+2019-10-29 17:08:41,913 - lib_dns.py:77 - DEBUG - DNS resolution using _google_public_dns on this address 8.8.8.8
+2019-10-29 17:08:41,918 - lib_dns.py:110 - DEBUG - URL r6---sn-vgqsrn76.googlevideo.com resolved as: 74.125.159.236
+2019-10-29 17:08:41,919 - lib_dns.py:77 - DEBUG - DNS resolution using _open_dns on this address 208.67.220.220
+2019-10-29 17:08:41,931 - lib_dns.py:110 - DEBUG - URL r6---sn-vgqsrn76.googlevideo.com resolved as: 74.125.159.236
+2019-10-29 17:08:41,931 - start_pytomo.py:223 - DEBUG - Compute stats for IP: 74.125.159.236
+2019-10-29 17:08:50,957 - lib_ping.py:108 - DEBUG - RTT stats found for ip: 74.125.159.236
+2019-10-29 17:08:50,958 - lib_general_download.py:189 - DEBUG - Max download_time is: 30
+2019-10-29 17:08:50,958 - lib_general_download.py:583 - DEBUG - Downloading url: https://r6---sn-vgqsrn76.googlevideo.com/videoplayback?expire=1572390521&ei=GXK4XY3iKKOKir4P5v-w2Ak&ip=35.192.39.45&id=o-AFkl0qV-jrvkDTrkn8D7sHOR31ol2YBdE8qg7sI-csuc&itag=18&source=youtube&requiressl=yes&mm=31%2C26&mn=sn-vgqsrn76%2Csn-q4f7sn7k&ms=au%2Conr&mv=m&mvi=5&pl=20&pcm2=yes&initcwndbps=7038750&mime=video%2Fmp4&gir=yes&clen=2097634&ratebypass=yes&dur=50.317&lmt=1572365922549419&mt=1572368792&fvip=6&fexp=23842630&c=WEB&txp=2211222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cpcm2%2Cmime%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=ALgxI2wwRQIhAJMu31ABGCzIFtiy1oF0wDakIYWmbRq7bKUMiCgaw5Y9AiBJLm3hmBcC8xGDIn9RPjT7gx4eSFkY97UjUG2EgMKpgA%3D%3D&lsparams=mm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AHylml4wRgIhAOsecme92aX6TAr9NBUhyEDlfy3uDszvMoIzFGHTpkqTAiEAnCq7IVvQSdV3xiaolRoF_6FUlZtNhzrxPxTtpw78vIM%3D, on this ip: 74.125.159.236
+2019-10-29 17:08:51,075 - lib_general_download.py:887 - DEBUG - Content-length: 2097634.0
+2019-10-29 17:08:51,076 - lib_general_download.py:897 - DEBUG - start time: 1572368931.08
+2019-10-29 17:08:51,076 - lib_general_download.py:609 - INFO - Not FLV
+2019-10-29 17:08:51,077 - factory.py:377 - WARNING - Name <open file '/tmp/tmpovcGvo', mode 'r' at 0x7f2117666d20> is not string or buffer
+2019-10-29 17:08:51,077 - factory.py:235 - INFO - No Type found by Extension (). Trying all parsers.
+2019-10-29 17:08:51,078 - factory.py:241 - DEBUG - trying video/quicktime
+2019-10-29 17:08:51,078 - factory.py:241 - DEBUG - trying video/flv
+2019-10-29 17:08:51,078 - factory.py:241 - DEBUG - trying video/mpeg
+2019-10-29 17:08:51,078 - mpeg.py:611 - INFO - trying mpeg-pes scan
+2019-10-29 17:08:51,079 - factory.py:241 - DEBUG - trying video/avi
+2019-10-29 17:08:51,079 - lib_general_download.py:79 - DEBUG - mime not found
+2019-10-29 17:08:51,079 - lib_general_download.py:817 - DEBUG - Content-length: 2097634.0
+2019-10-29 17:08:51,079 - factory.py:377 - WARNING - Name <open file '/tmp/tmpovcGvo', mode 'r' at 0x7f2116ed8390> is not string or buffer
+2019-10-29 17:08:51,079 - factory.py:235 - INFO - No Type found by Extension (). Trying all parsers.
+2019-10-29 17:08:51,079 - factory.py:241 - DEBUG - trying video/quicktime
+2019-10-29 17:08:51,079 - factory.py:241 - DEBUG - trying video/flv
+2019-10-29 17:08:51,079 - factory.py:241 - DEBUG - trying video/mpeg
+2019-10-29 17:08:51,079 - mpeg.py:611 - INFO - trying mpeg-pes scan
+2019-10-29 17:08:51,079 - factory.py:241 - DEBUG - trying video/avi
+2019-10-29 17:08:51,079 - factory.py:377 - WARNING - Name <open file '/tmp/tmpovcGvo', mode 'r' at 0x7f2116ed8390> is not string or buffer
+2019-10-29 17:08:51,079 - factory.py:235 - INFO - No Type found by Extension (). Trying all parsers.
+2019-10-29 17:08:51,079 - factory.py:241 - DEBUG - trying video/quicktime
+2019-10-29 17:08:51,081 - mp4.py:478 - DEBUG - moov [4213]
+2019-10-29 17:08:51,081 - mp4.py:478 - DEBUG - mvhd [6C]
+2019-10-29 17:08:51,081 - mp4.py:478 - DEBUG - trak [1C0B]
+2019-10-29 17:08:51,081 - mp4.py:284 - DEBUG - --> mdia information
+[download]   0.0% of 2.00M at 365.77kb/s ETA 00:05 Bytes 1024 Inst_thp 18878.9771253kb/s  cur_buf 0.0000002019-10-29 17:08:51,082 - factory.py:377 - WARNING - Name <open file '/tmp/tmpovcGvo', mode 'r' at 0x7f2116ed8390> is not string or buffer
+2019-10-29 17:08:51,082 - factory.py:235 - INFO - No Type found by Extension (). Trying all parsers.
+2019-10-29 17:08:51,082 - factory.py:241 - DEBUG - trying video/quicktime
+2019-10-29 17:08:51,082 - mp4.py:478 - DEBUG - moov [4213]
+2019-10-29 17:08:51,082 - mp4.py:478 - DEBUG - mvhd [6C]
+2019-10-29 17:08:51,082 - mp4.py:478 - DEBUG - trak [1C0B]
+2019-10-29 17:08:51,082 - mp4.py:284 - DEBUG - --> mdia information
+2019-10-29 17:08:51,082 - lib_general_download.py:575 - DEBUG - Encoding rate is: 335.62kb/s
+[download]   0.1% of 2.00M at 922.84kb/s ETA 00:02 Bytes 3072 Inst_thp 34777.0631255kb/s  cur_buf 0.000000[download]   0.3% of 2.00M at   2.06Mb/s ETA 00:00 Bytes 7168 Inst_thp 941362.695014kb/s  cur_buf 0.000000[download]   0.7% of 2.00M at   4.35Mb/s ETA 00:00 Bytes 15360 Inst_thp 2617884.82804kb/s  cur_buf 0.000000[download]   1.5% of 2.00M at   4.26Mb/s ETA 00:00 Bytes 31744 Inst_thp 35733.2345719kb/s  cur_buf 0.000000[download]   3.1% of 2.00M at   3.95Mb/s ETA 00:00 Bytes 64512 Inst_thp 31267.2153498kb/s  cur_buf 0.000000[download]   6.2% of 2.00M at   4.76Mb/s ETA 00:00 Bytes 130048 Inst_thp 50714.3113755kb/s  cur_buf 0.000000[download]  12.4% of 2.00M at   6.87Mb/s ETA 00:00 Bytes 261120 Inst_thp 103747.086976kb/s  cur_buf 0.000000[download]  24.9% of 2.00M at  10.66Mb/s ETA 00:00 Bytes 523264 Inst_thp 200759.871781kb/s  cur_buf 0.000000[download]  49.9% of 2.00M at  16.92Mb/s ETA 00:00 Bytes 1047552 Inst_thp 347006.450962kb/s  cur_buf 0.000000[download]  99.9% of 2.00M at  28.31Mb/s ETA 00:00 Bytes 2096128 Inst_thp 733282.732875kb/s  cur_buf 0.000000[download] 100.0% of 2.00M at  28.13Mb/s ETA 00:00 Bytes 2097633 Inst_thp 28070.8283268kb/s  cur_buf 0.0000002019-10-29 17:08:51,150 - lib_general_download.py:843 - DEBUG - 
+Dowloaded complete video
+2019-10-29 17:08:51,150 - lib_general_download.py:618 - INFO - nb of interruptions: 0
+2019-10-29 17:08:52,881 - start_pytomo.py:253 - DEBUG - IP 74.125.159.236 resolved as AS: 15169
+2019-10-29 17:08:52,881 - start_pytomo.py:268 - INFO - new redirect urls: [None]
+2019-10-29 17:08:52,887 - lib_database.py:281 - DEBUG - row added to table
+2019-10-29 17:09:02,897 - start_pytomo.py:868 - DEBUG - next_urls: set([])
+2019-10-29 17:09:02,898 - start_pytomo.py:978 - WARNING - Crawl finished
+################################################################################
+2019-10-29 17:09:02,898 - start_pytomo.py:1513 - DEBUG - {'74.125.159': 15169, '0.0.0': 0}
+2019-10-29 17:09:02,898 - start_pytomo.py:1219 - CRITICAL - Hash of database file: abf0a2b7228b522e4ee5f923eae79d76
